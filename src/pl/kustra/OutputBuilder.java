@@ -28,6 +28,10 @@ public class OutputBuilder {
             at.addRule();
             at.addRow(null, object.type + ": (" + object.key + ")");
             at.addRule();
+            if(!object.crossref.equals("")) {
+                at.addRow("crossref", object.crossref);
+                at.addRule();
+            }
             for (Map.Entry<String, String> entry : object.requiredAttributes.entrySet()) {
                 if (entry.getValue().trim() != "") {
 

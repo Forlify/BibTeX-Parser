@@ -14,7 +14,7 @@ class Parser {
     Map<String, String> stringVariables = new HashMap<>();
 
     /**
-     *
+     * Constructor with StringVariables init (months parser)
      */
     Parser() {
         stringVariables.put("jan", "January");
@@ -53,6 +53,7 @@ class Parser {
                 } else {
                     Entry entry = parseEntry(text, type.toUpperCase());
                     if (entry != null) {
+                        entry = makeCrossref(entry, result);
                         checkRequired(entry);
                         result.add(entry);
                     }
@@ -196,7 +197,8 @@ class Parser {
         String[] textParts = text.split("#");
 
         for (String value : textParts) {
-            if (value.trim().charAt(0) != '"' && value.trim().charAt(0) != '{' && !(value.charAt(0) >= '0' && value.charAt(0) <= '9')) {
+            value = value.trim();
+            if (value.charAt(0) != '"' && value.charAt(0) != '{' && !(value.charAt(0) >= '0' && value.charAt(0) <= '9')) {
 
                 String mapValue = stringVariables.get(value.trim());
                 if (mapValue == null)
@@ -243,5 +245,46 @@ class Parser {
             if (!attribute.getKey().equals("author") && !attribute.getKey().equals("editor") && attribute.getValue().equals(""))
                 throw new IllegalArgumentException("Error while reading record with key: " + object.key + ", required argument " + attribute.getKey() + " had no value!");
         }
+    }
+
+    /**
+     * Make reference to another object based on crossref attribute
+     *
+     * @param object to be referenced from
+     * @param result to find object to reference to
+     * @return object with Attributes referenced from crossref value
+     */
+    Entry makeCrossref(Entry object, List<Entry> result) {
+        if (!object.crossref.trim().isEmpty()) {
+
+            String crossref = object.crossref.toUpperCase();
+            Entry referenceObject = null;
+
+            for (Entry find : result) {
+                if (find.key.toUpperCase().equals(crossref)) {
+                    referenceObject = find;
+                    break;
+                }
+            }
+            if (referenceObject == null)
+                throw new IllegalArgumentException("Error while referencing record with key: " + object.key + ", object to reference does not exist.");
+            if (referenceObject.type != object.type)
+                throw new IllegalArgumentException("Error while referencing record witk key: " + object.key + ", types of objects does not match.");
+
+            for (Map.Entry<String, String> attribute : referenceObject.requiredAttributes.entrySet()) {
+                if (object.requiredAttributes.get(attribute.getKey()).equals("")) {
+                    object.requiredAttributes.put(attribute.getKey(), attribute.getValue());
+                }
+            }
+
+            for (Map.Entry<String, String> attribute : referenceObject.optionalAttributes.entrySet()) {
+                if (object.optionalAttributes.get(attribute.getKey()).equals("")) {
+                    object.optionalAttributes.put(attribute.getKey(), attribute.getValue());
+                }
+            }
+
+        }
+
+        return object;
     }
 }
