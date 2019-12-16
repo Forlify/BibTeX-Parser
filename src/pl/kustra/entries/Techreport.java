@@ -3,6 +3,9 @@ package pl.kustra.entries;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @see IEntries
+ */
 public class Techreport implements IEntries {
 
     public Entry create() {
@@ -21,12 +24,6 @@ public class Techreport implements IEntries {
         requiredAttributes.add("title");
         requiredAttributes.add("institution");
         requiredAttributes.add("year");
-        requiredAttributes.add("");
-        requiredAttributes.add("");
-        requiredAttributes.add("");
-        requiredAttributes.add("");
-        requiredAttributes.add("");
-        requiredAttributes.add("");
 
         return requiredAttributes;
     }

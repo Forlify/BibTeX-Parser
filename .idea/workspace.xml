@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e5ab6b-98d3-4446-a60f-a8deb993ff2e" name="Default Changelist" comment="" />
+    <list default="true" id="f1e5ab6b-98d3-4446-a60f-a8deb993ff2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/de_vandermeer_asciitable_0_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Proceedings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pl/kustra/ActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pl/kustra/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pl/kustra/files/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BibiTeX Parser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BibiTeX Parser.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/META-INF/BibiTeX Parser.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Actions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/OutputBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/OutputBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Booklet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Booklet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inbook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Incollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Incollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inproceedings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inproceedings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Manual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Manual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Mastersthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Mastersthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Misc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Misc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Phdthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Phdthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Techreport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Techreport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Unpublished.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Unpublished.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/BibiTeX Parser/pl/kustra/entries/ArticleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/BibiTeX Parser/pl/kustra/entries/EntryIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/Actions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/OutputBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/OutputBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Booklet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Booklet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/IEntries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/IEntries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Inbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Inbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Incollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Incollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Inproceedings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Inproceedings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Mastersthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Mastersthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Misc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Misc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Phdthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Phdthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Techreport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Techreport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Unpublished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Unpublished.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pl/kustra/entries/EntryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/pl/kustra/EntryIntegrationTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,24 +66,37 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UQX2qU04hfXYYw0Wx6MlypUuV3" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="bibtex_parser" />
     <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.kustra" />
       <recent name="pl.kustra.entries" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.kustra" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -52,43 +114,68 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EntryIntegrationTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="pl.kustra.Main" />
       <module name="BibiTeX Parser" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;$USER_HOME$/Desktop/bibtex.txt&quot; &quot;&quot; &quot;&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$USER_HOME$/Desktop/bibi.txt&quot; &quot;&quot; &quot;&quot;" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsTest.performAuthorFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BibiTeX Parser" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kustra.entries.*" />
+          <option name="PATTERN" value="pl.kustra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.kustra.entries" />
-      <option name="MAIN_CLASS_NAME" value="pl.kustra.entries.EntryIntegrationTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="pl.kustra" />
+      <option name="MAIN_CLASS_NAME" value="pl.kustra.ActionsTest" />
+      <option name="METHOD_NAME" value="performAuthorFilter" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntryIntegrationTest.articleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in BibiTeX Parser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BibiTeX Parser" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.parse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BibiTeX Parser" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kustra.entries.*" />
+          <option name="PATTERN" value="pl.kustra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.kustra.entries" />
-      <option name="MAIN_CLASS_NAME" value="pl.kustra.entries.EntryIntegrationTest" />
-      <option name="METHOD_NAME" value="articleTest" />
+      <option name="PACKAGE_NAME" value="pl.kustra" />
+      <option name="MAIN_CLASS_NAME" value="pl.kustra.ParserTest" />
+      <option name="METHOD_NAME" value="parse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.parseStringVariable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BibiTeX Parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kustra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kustra" />
+      <option name="MAIN_CLASS_NAME" value="pl.kustra.ParserTest" />
+      <option name="METHOD_NAME" value="parseStringVariable" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,9 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EntryIntegrationTest" />
-        <item itemvalue="JUnit.EntryIntegrationTest.articleTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in BibiTeX Parser" />
+        <item itemvalue="JUnit.ActionsTest.performAuthorFilter" />
+        <item itemvalue="JUnit.ParserTest.parseStringVariable" />
+        <item itemvalue="JUnit.ParserTest.parse" />
       </list>
     </recent_temporary>
   </component>
@@ -114,10 +203,31 @@
       <updated>1575289588387</updated>
       <workItem from="1575289593513" duration="2797000" />
       <workItem from="1575789917452" duration="11027000" />
+      <workItem from="1575811293223" duration="3158000" />
+      <workItem from="1575816652300" duration="671000" />
+      <workItem from="1575892585575" duration="4831000" />
+      <workItem from="1575901391340" duration="1902000" />
+      <workItem from="1576006973027" duration="7054000" />
+      <workItem from="1576253682481" duration="2995000" />
+      <workItem from="1576334027017" duration="2612000" />
+      <workItem from="1576348556978" duration="36569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

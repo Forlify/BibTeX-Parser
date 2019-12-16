@@ -1,9 +1,12 @@
-package pl.kustra.entries;
+package pl.kustra;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import pl.kustra.entries.*;
 
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import static org.junit.Assert.*;
 
@@ -330,4 +333,9 @@ public class EntryIntegrationTest {
         assertEquals(optionalAttributes.get("months"), null);
         assertEquals(optionalAttributes.get("author"), null);
     }
+
+    @Test
+    public void myTest() {
+    }
+
 }

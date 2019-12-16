@@ -3,6 +3,9 @@ package pl.kustra.entries;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @see IEntries
+ */
 public class Incollection implements IEntries {
 
     public Entry create() {

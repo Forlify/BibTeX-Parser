@@ -3,7 +3,10 @@ package pl.kustra.entries;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Book{
+/**
+ * @see IEntries
+ */
+public class Book {
 
     public Entry create() {
         Entry object = new Entry();
