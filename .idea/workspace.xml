@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e5ab6b-98d3-4446-a60f-a8deb993ff2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/de_vandermeer_asciitable_0_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Proceedings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pl/kustra/ActionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pl/kustra/ParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pl/kustra/files/file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BibiTeX Parser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BibiTeX Parser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/META-INF/BibiTeX Parser.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Actions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/OutputBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/OutputBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/Parser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Article.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Booklet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Booklet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Entry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inbook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Incollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Incollection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inproceedings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Inproceedings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Manual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Manual.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Mastersthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Mastersthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Misc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Misc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Phdthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Phdthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Techreport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Techreport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Unpublished.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BibiTeX Parser/pl/kustra/entries/Unpublished.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/BibiTeX Parser/pl/kustra/entries/ArticleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/BibiTeX Parser/pl/kustra/entries/EntryIntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/Actions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/OutputBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/OutputBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/kustra/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Booklet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Booklet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Entry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/IEntries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/IEntries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Inbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Inbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Incollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Incollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Inproceedings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Inproceedings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Manual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Mastersthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Mastersthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Misc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Misc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Phdthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Phdthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Techreport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Techreport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kustra/entries/Unpublished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kustra/entries/Unpublished.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pl/kustra/entries/EntryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/pl/kustra/EntryIntegrationTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -211,6 +164,7 @@
       <workItem from="1576253682481" duration="2995000" />
       <workItem from="1576334027017" duration="2612000" />
       <workItem from="1576348556978" duration="36569000" />
+      <workItem from="1576488740269" duration="11000" />
     </task>
     <servers />
   </component>

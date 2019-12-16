@@ -9,7 +9,6 @@ import java.util.regex.Pattern;
 
 /**
  * Main parsing class, which does most of program's work.
- * Parent class ParsingContext sets all strategies used for parsing (@STRING substitution strategy and single record parsing strategy).
  */
 class Parser {
     Map<String, String> stringVariables = new HashMap<>();
