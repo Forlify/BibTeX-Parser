@@ -16,4 +16,4 @@ bk:bibtex-parser$ java -jar parser.jar example.bib Aamport article
 
 output:
 
-![Example](img/example.gif)
+![Example](img/example.png)
