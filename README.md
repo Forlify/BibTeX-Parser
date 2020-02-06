@@ -5,11 +5,15 @@ A JavaScript library that parses BibTeX files.
 ## Usage
 
 ```console
-bk:bibtex-parser$ java -jar parser.jar -f <file> -t <attribute> -a <author>
+bk:bibtex-parser$ java -jar parser.jar <file> <author> <attribute> 
 ```
 
 ## Example
 
 ```console
-bk:bibtex-parser$ java -jar parser.jar -f example.bib -t book -a Knuth
+bk:bibtex-parser$ java -jar parser.jar example.bib Aamport article
 ```
+
+output:
+
+![Example](img/example.gif)
